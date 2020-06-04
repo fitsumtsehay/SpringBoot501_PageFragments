@@ -1,0 +1,1 @@
+Page fragments using thymeleaf
